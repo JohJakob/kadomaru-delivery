@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Daruma</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Wed, 05 Mar 2025 15:05:16 +0100</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:channel>express</sparkle:channel>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma-v1.0_14.dmg" length="7148221" type="application/octet-stream" sparkle:edSignature="XGELSaWCRxCb9uY4gJ4Uz+Ra7S84dqbuApJ+aT3YAEGUxomdHKoHAS+RIwUD3ex+lKA5yBMyWs/0ZRdUbdRNBQ=="/>
+            <description><![CDATA[
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Adds “Standard” and “Express” delivery channels</li>
+                            </ul>
+							]]></description>
+        </item>
+    </channel>
+</rss>
