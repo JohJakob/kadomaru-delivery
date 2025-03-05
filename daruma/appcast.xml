@@ -9,7 +9,7 @@
             <sparkle:channel>express</sparkle:channel>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma-v1.0_14.dmg" length="7148221" type="application/octet-stream" sparkle:edSignature="XGELSaWCRxCb9uY4gJ4Uz+Ra7S84dqbuApJ+aT3YAEGUxomdHKoHAS+RIwUD3ex+lKA5yBMyWs/0ZRdUbdRNBQ=="/>
+            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma-v1.0_14.dmg" length="7148245" type="application/octet-stream" sparkle:edSignature="OLctyz2nScVtIcgtFf9cIqRInjitTm9k2etAX6aqIE6PiG7u0eQM+Ivqc2xLwU16cQtBjjjikKyRdA3i3lhmDQ=="/>
             <description><![CDATA[
                             <h2>Fixes and Improvements</h2>
                             <ul>
