@@ -4,6 +4,25 @@
         <title>Daruma</title>
         <item>
             <title>1.0</title>
+            <pubDate>Mon, 10 Mar 2025 15:50:21 +0100</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma.dmg" length="9990793" type="application/octet-stream" sparkle:edSignature="pGbfJYKXds2kNBNLwEO7G1pyOzU5864FDxV7BHG7ptHB1uC+FOT8Guaz/Pd3uoMP9XDclSdU+dLlCzAp5UA7CQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://delivery.kadomaru.app/daruma/Daruma15-14.delta" sparkle:deltaFrom="14" length="234598" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="846480" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="4lyoZrHB/WMAPA4Xyx6gJOKJeR0rsQWJ9Mq/dgmX7eeSiRgwEQN1QIkJWim9ZbmRWKNmisis+nPVN2fYfL2IDw=="/>
+            </sparkle:deltas>
+            <description><![CDATA[
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Improves the visual appearance in the light color scheme</li>
+                                <li>Updates the donation links</li>
+                                <li>Includes minor updates behind the scenes</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Thu, 06 Mar 2025 15:15:47 +0100</pubDate>
             <sparkle:channel>express</sparkle:channel>
             <sparkle:version>14</sparkle:version>
