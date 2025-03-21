@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Buddies</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Fri, 21 Mar 2025 11:34:23 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:channel>express</sparkle:channel>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/buddies/Buddies-Express.dmg" length="7352931" type="application/octet-stream" sparkle:edSignature="mqfD5+veDjr53CunkNvnyRbciTMj54kiolTTzMGHAAGW2xlBdGYaQPuv/4+F5bxaGRIF3qxAWsSVO84PKaCOCQ=="/>
+        </item>
+    </channel>
+</rss>
