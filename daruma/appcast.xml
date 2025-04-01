@@ -3,6 +3,33 @@
     <channel>
         <title>Daruma</title>
         <item>
+            <title>1.1</title>
+            <pubDate>Tue, 01 Apr 2025 15:24:19 +0200</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma-Express.dmg" length="10010542" type="application/octet-stream" sparkle:edSignature="Knd8cJZ7WZZM6YB6AJ4hlejWAsGuVh4AUwyR14lIKrzzetZkIayCXzivjd+q5MyF7rvsVC8ydnKZN0b2HqKcDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://delivery.kadomaru.app/daruma/Daruma16-15.delta" sparkle:deltaFrom="15" length="569094" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="ybxJ4PMONiPsia9XqAvX8B3SJWsuJkkfQxHcz37tEjoXRzcvzstrboMRv3Mjadu0imGRY45IGAQ1xPAT6hlBAg=="/>
+            </sparkle:deltas>
+            <description><![CDATA[
+                            <h2>New Features</h2>
+                            <ul>
+                                <li>Adds localizations for Japanese (thanks to Nobtaka Nukui), German, and English (United Kingdom)</li>
+                            </ul>
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Adds tooltips to the goal checkboxes and toolbar buttons</li>
+                                <li>Fixes a few minor issues in the interface</li>
+                                <li>Includes minor updates behind the scenes</li>
+                            </ul>
+                            <h2>Known Issues</h2>
+                            <ul>
+                                <li>Scrolling the goal list may not work as intended and exhibit some “stuttering.” We are working on a solution and apologize for any inconvenience.</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Mon, 10 Mar 2025 15:50:21 +0100</pubDate>
             <sparkle:version>15</sparkle:version>
