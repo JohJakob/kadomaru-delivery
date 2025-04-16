@@ -4,6 +4,30 @@
         <title>Daruma</title>
         <item>
             <title>1.1</title>
+            <pubDate>Wed, 16 Apr 2025 21:24:58 +0200</pubDate>
+            <sparkle:channel>express</sparkle:channel>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma-Express.dmg" length="10013321" type="application/octet-stream" sparkle:edSignature="ow1juoZa6EFLjzpbwPYHo7UWu2DiRkxXVZBusJdksw9keWDNTw1DynNV0V3RxCIywzjYjd+E1GMvBeLS+BElAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://delivery.kadomaru.app/daruma/Daruma19-15.delta" sparkle:deltaFrom="15" length="579914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="AhaE+8Rr+ic3O8nd6w+hlCKQThe3TNBy8x/bafGZet1tQumaowcFxovNvaHJrlANjJ5xa93WC5xxHGeoG+ieBg=="/>
+            </sparkle:deltas>
+            <description><![CDATA[
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Corrects the Japanese localization</li>
+                                <li>Fixes a layout bug in the goal text fields for CJK text input</li>
+                                <li>Fixes an issue where an untitled goal would remain after quitting while a new goal was being added</li>
+                            </ul>
+                            <h2>Known Issues</h2>
+                            <ul>
+                                <li>Scrolling the goal list may not work as intended and exhibit some “stuttering.” We are working on a solution and apologize for any inconvenience.</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.1</title>
             <pubDate>Wed, 16 Apr 2025 15:35:43 +0200</pubDate>
             <sparkle:channel>express</sparkle:channel>
             <sparkle:version>18</sparkle:version>
@@ -17,29 +41,6 @@
                             <h2>Fixes and Improvements</h2>
                             <ul>
                                 <li>Fixes an issue where updates on the Express channel could not be found</li>
-                                <li>Text fields are now as wide as their contents, making it easier to reorder your goals</li>
-                                <li>Includes minor updates behind the scenes</li>
-                            </ul>
-                            <h2>Known Issues</h2>
-                            <ul>
-                                <li>Scrolling the goal list may not work as intended and exhibit some “stuttering.” We are working on a solution and apologize for any inconvenience.</li>
-                            </ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.1</title>
-            <pubDate>Wed, 16 Apr 2025 15:03:26 +0200</pubDate>
-            <sparkle:channel>express</sparkle:channel>
-            <sparkle:version>17</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma-Express.dmg" length="10016114" type="application/octet-stream" sparkle:edSignature="Vav78VUZLVnrCxUnF7MiwsJMIeVGAX92PI/rPL7lrbw3V/FaDC+NREH+5WT7DhWeIxJfwfjFKlUG1nv21mEKBA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://delivery.kadomaru.app/daruma/Daruma17-15.delta" sparkle:deltaFrom="15" length="575414" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="VwKu9MLgr0USKilA/qfBTluApYYJwgxA0bvLLbYtL8bNA6cZ8p+cNZY7i9KDJbTmhyRVldvo8yKyd1KQVwnrAg=="/>
-            </sparkle:deltas>
-            <description><![CDATA[
-                            <h2>Fixes and Improvements</h2>
-                            <ul>
                                 <li>Text fields are now as wide as their contents, making it easier to reorder your goals</li>
                                 <li>Includes minor updates behind the scenes</li>
                             </ul>
