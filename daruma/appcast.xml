@@ -4,6 +4,30 @@
         <title>Daruma</title>
         <item>
             <title>1.1</title>
+            <pubDate>Wed, 16 Apr 2025 15:35:43 +0200</pubDate>
+            <sparkle:channel>express</sparkle:channel>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma-Express.dmg" length="10016494" type="application/octet-stream" sparkle:edSignature="cjtXk9Cu642qesECVVWb47BngBcH1DK1pPXHGJCANfBNelj5oIr7R8uHeUA9ShvuOH3GaH9tbsur/8woOZDNBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://delivery.kadomaru.app/daruma/Daruma18-15.delta" sparkle:deltaFrom="15" length="576250" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="zv2tSOuKWJKpbvx5Yn4a17wxHBoQBJDsE0bQde41Lw7T+iOw4Hrz7enStAY2jwGfWIhBeLcD9j7lmz3htG5CAA=="/>
+            </sparkle:deltas>
+            <description><![CDATA[
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Fixes an issue where updates on the Express channel could not be found</li>
+                                <li>Text fields are now as wide as their contents, making it easier to reorder your goals</li>
+                                <li>Includes minor updates behind the scenes</li>
+                            </ul>
+                            <h2>Known Issues</h2>
+                            <ul>
+                                <li>Scrolling the goal list may not work as intended and exhibit some “stuttering.” We are working on a solution and apologize for any inconvenience.</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.1</title>
             <pubDate>Wed, 16 Apr 2025 15:03:26 +0200</pubDate>
             <sparkle:channel>express</sparkle:channel>
             <sparkle:version>17</sparkle:version>
@@ -17,34 +41,6 @@
                             <h2>Fixes and Improvements</h2>
                             <ul>
                                 <li>Text fields are now as wide as their contents, making it easier to reorder your goals</li>
-                                <li>Includes minor updates behind the scenes</li>
-                            </ul>
-                            <h2>Known Issues</h2>
-                            <ul>
-                                <li>Scrolling the goal list may not work as intended and exhibit some “stuttering.” We are working on a solution and apologize for any inconvenience.</li>
-                            </ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.1</title>
-            <pubDate>Tue, 01 Apr 2025 15:24:19 +0200</pubDate>
-            <sparkle:channel>express</sparkle:channel>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma-Express.dmg" length="10010542" type="application/octet-stream" sparkle:edSignature="Knd8cJZ7WZZM6YB6AJ4hlejWAsGuVh4AUwyR14lIKrzzetZkIayCXzivjd+q5MyF7rvsVC8ydnKZN0b2HqKcDA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://delivery.kadomaru.app/daruma/Daruma16-15.delta" sparkle:deltaFrom="15" length="569094" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="ybxJ4PMONiPsia9XqAvX8B3SJWsuJkkfQxHcz37tEjoXRzcvzstrboMRv3Mjadu0imGRY45IGAQ1xPAT6hlBAg=="/>
-            </sparkle:deltas>
-            <description><![CDATA[
-                            <h2>New Features</h2>
-                            <ul>
-                                <li>Adds localizations for Japanese (thanks to Nobtaka Nukui), German, and English (United Kingdom)</li>
-                            </ul>
-                            <h2>Fixes and Improvements</h2>
-                            <ul>
-                                <li>Adds tooltips to the goal checkboxes and toolbar buttons</li>
-                                <li>Fixes a few minor issues in the interface</li>
                                 <li>Includes minor updates behind the scenes</li>
                             </ul>
                             <h2>Known Issues</h2>
@@ -69,21 +65,6 @@
                                 <li>Improves the visual appearance in the light color scheme</li>
                                 <li>Updates the donation links</li>
                                 <li>Includes minor updates behind the scenes</li>
-                            </ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Thu, 06 Mar 2025 15:15:47 +0100</pubDate>
-            <sparkle:channel>express</sparkle:channel>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma-Express.dmg" length="7152434" type="application/octet-stream" sparkle:edSignature="qFQxQ7nl74a4UlZ8ruvO4aIfneqJkGQWLaf58C0wj17FD2Qs0J33Cgz0Sqj6B/Dejr8RMJrUG2+F3okHC/sQDQ=="/>
-            <description><![CDATA[
-                            <h2>Fixes and Improvements</h2>
-                            <ul>
-                                <li>Adds “Standard” and “Express” delivery channels</li>
                             </ul>
 							]]></description>
         </item>
