@@ -4,6 +4,24 @@
         <title>Buddies</title>
         <item>
             <title>1.0</title>
+            <pubDate>Fri, 02 May 2025 11:17:24 +0200</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/buddies/Buddies-Express.dmg" length="7855579" type="application/octet-stream" sparkle:edSignature="OtlLgSKGRkvHQmEKGNT/hMIt9TiMTLyTvKAjtRXXmPbP8AaYfG2WrhNkAccZ+nUmTbpEWXfNpy/pqo7BRza3Cw=="/>
+            <description><![CDATA[
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Improves the list and group header appearance</li>
+                                <li>Replaces the view options and display settings with options in the View menu</li>
+                                <li>Fixes an issue where it was possible to give groups empty titles</li>
+                                <li>Fixes an issue where updates on the Express channel could not be found</li>
+                                <li>Includes minor improvements to the interface and accessibility</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Mon, 31 Mar 2025 11:42:42 +0200</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:channel>express</sparkle:channel>
@@ -23,15 +41,6 @@
                                 <li>Disables the tab bar</li>
                             </ul>
 							]]></description>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Fri, 21 Mar 2025 11:34:23 +0100</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:channel>express</sparkle:channel>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://delivery.kadomaru.app/buddies/Buddies-Express.dmg" length="7352931" type="application/octet-stream" sparkle:edSignature="mqfD5+veDjr53CunkNvnyRbciTMj54kiolTTzMGHAAGW2xlBdGYaQPuv/4+F5bxaGRIF3qxAWsSVO84PKaCOCQ=="/>
         </item>
     </channel>
 </rss>
