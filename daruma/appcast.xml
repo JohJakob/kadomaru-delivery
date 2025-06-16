@@ -4,6 +4,29 @@
         <title>Daruma</title>
         <item>
             <title>1.2</title>
+            <pubDate>Mon, 16 Jun 2025 15:19:36 +0200</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma-Express.dmg" length="10096067" type="application/octet-stream" sparkle:edSignature="dxU+ZVTkzDPwpR2gCFCNms6N48XIp2VyymOpWuwVpjkvUIX/LYUotlTakKVVJB1OS4l8xT5ZSJ3UuWzpTrCLDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://delivery.kadomaru.app/daruma/Daruma22-20.delta" sparkle:deltaFrom="20" length="371666" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="CSxc32LHmBxk62MbHnzZvpZdwXRRxWBG6fH0EfXIX4TQs7dARis4f6H45YRdzNFHnhDO1lC3VunF1wTSkDzpCQ=="/>
+            </sparkle:deltas>
+            <description><![CDATA[
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Includes preparations for a future release</li>
+                                <li>Includes minor updates behind the scenes</li>
+                            </ul>
+                            <p><em>Please be advised that this update modifies the app’s database, which may result in data loss. If you encounter issues such as missing goals or a complete loss of all previously present goals, please contact us at <a href="mailto:webmaster@kadomaru.app">webmaster@kadomaru.app</a>. Please proceed with caution or switch to the Standard delivery channel in Daruma → Settings… → Updates. Thank you!</em></p>
+                            <h2>Known Issues</h2>
+                            <ul>
+                                <li>Scrolling the goal list may not work as intended and exhibit some “stuttering.” We are working on a solution and apologize for any inconvenience.</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.2</title>
             <pubDate>Tue, 20 May 2025 09:04:55 +0200</pubDate>
             <sparkle:version>21</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
@@ -74,25 +97,6 @@
                             <h2>Known Issues</h2>
                             <ul>
                                 <li>Scrolling the goal list may not work as intended and exhibit some “stuttering.” We are working on a solution and apologize for any inconvenience.</li>
-                            </ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Mon, 10 Mar 2025 15:50:21 +0100</pubDate>
-            <sparkle:version>15</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma.dmg" length="9990793" type="application/octet-stream" sparkle:edSignature="pGbfJYKXds2kNBNLwEO7G1pyOzU5864FDxV7BHG7ptHB1uC+FOT8Guaz/Pd3uoMP9XDclSdU+dLlCzAp5UA7CQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://delivery.kadomaru.app/daruma/Daruma15-14.delta" sparkle:deltaFrom="14" length="234598" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="846480" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="4lyoZrHB/WMAPA4Xyx6gJOKJeR0rsQWJ9Mq/dgmX7eeSiRgwEQN1QIkJWim9ZbmRWKNmisis+nPVN2fYfL2IDw=="/>
-            </sparkle:deltas>
-            <description><![CDATA[
-                            <h2>Fixes and Improvements</h2>
-                            <ul>
-                                <li>Improves the visual appearance in the light color scheme</li>
-                                <li>Updates the donation links</li>
-                                <li>Includes minor updates behind the scenes</li>
                             </ul>
 							]]></description>
         </item>
