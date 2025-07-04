@@ -12,6 +12,18 @@
             <sparkle:deltas>
                 <enclosure url="https://delivery.kadomaru.app/daruma/Daruma24-20.delta" sparkle:deltaFrom="20" length="443254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="KbsZUsEXqHr7H39FTCMyvgXEyKzi2RnM3CxtsZ1xpmACBii14jjCGa0KkvQG6v4Xh2li2Y8YtlolSeVNCSYHDA=="/>
             </sparkle:deltas>
+            <description><![CDATA[
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Improves the app’s internal state management</li>
+                                <li>Includes preparations for a future release</li>
+                            </ul>
+                            <p><em>Please be advised that this update modifies the app’s database, which may result in data loss. If you encounter issues such as missing goals or a complete loss of all previously present goals, please contact us at <a href="mailto:webmaster@kadomaru.app">webmaster@kadomaru.app</a>. Please proceed with caution or switch to the Standard delivery channel in Daruma → Settings… → Updates. Thank you!</em></p>
+                            <h2>Known Issues</h2>
+                            <ul>
+                                <li>Scrolling the goal list may not work as intended and exhibit some “stuttering.” We are working on a solution and apologize for any inconvenience.</li>
+                            </ul>
+							]]></description>
         </item>
         <item>
             <title>1.2</title>
