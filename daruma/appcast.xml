@@ -4,6 +4,29 @@
         <title>Daruma</title>
         <item>
             <title>1.2</title>
+            <pubDate>Fri, 04 Jul 2025 20:20:40 +0200</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma-Express.dmg" length="10138500" type="application/octet-stream" sparkle:edSignature="NS1hYI0zsV+zglE8m2rIPOL7DDT9UiI7eKc9SIMvKFqgllJ4UXpLDgrTXukvF5ZxmxPf7MY9QSCFDwv9L+r7DQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://delivery.kadomaru.app/daruma/Daruma24-20.delta" sparkle:deltaFrom="20" length="443254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="KbsZUsEXqHr7H39FTCMyvgXEyKzi2RnM3CxtsZ1xpmACBii14jjCGa0KkvQG6v4Xh2li2Y8YtlolSeVNCSYHDA=="/>
+            </sparkle:deltas>
+            <description><![CDATA[
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Improves the app’s internal state management</li>
+                                <li>Includes preparations for a future release</li>
+                            </ul>
+                            <p><em>Please be advised that this update modifies the app’s database, which may result in data loss. If you encounter issues such as missing goals or a complete loss of all previously present goals, please contact us at <a href="mailto:webmaster@kadomaru.app">webmaster@kadomaru.app</a>. Please proceed with caution or switch to the Standard delivery channel in Daruma → Settings… → Updates. Thank you!</em></p>
+                            <h2>Known Issues</h2>
+                            <ul>
+                                <li>Scrolling the goal list may not work as intended and exhibit some “stuttering.” We are working on a solution and apologize for any inconvenience.</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.2</title>
             <pubDate>Thu, 03 Jul 2025 10:33:54 +0200</pubDate>
             <sparkle:version>23</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
@@ -42,57 +65,6 @@
                                 <li>Includes minor updates behind the scenes</li>
                             </ul>
                             <p><em>Please be advised that this update modifies the app’s database, which may result in data loss. If you encounter issues such as missing goals or a complete loss of all previously present goals, please contact us at <a href="mailto:webmaster@kadomaru.app">webmaster@kadomaru.app</a>. Please proceed with caution or switch to the Standard delivery channel in Daruma → Settings… → Updates. Thank you!</em></p>
-                            <h2>Known Issues</h2>
-                            <ul>
-                                <li>Scrolling the goal list may not work as intended and exhibit some “stuttering.” We are working on a solution and apologize for any inconvenience.</li>
-                            </ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.2</title>
-            <pubDate>Tue, 20 May 2025 09:04:55 +0200</pubDate>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma-Express.dmg" length="10096085" type="application/octet-stream" sparkle:edSignature="7xihdUmXKPES5gHUuHJpQtvaVHP0x5NGTheBZpk4zAdzFeIfPQVLheJxV9PU5aCEUy79ThB7ZNE/emNY+oSmAw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://delivery.kadomaru.app/daruma/Daruma21-20.delta" sparkle:deltaFrom="20" length="357310" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="nKzKpx3tAPtdj2L3PFUrztCiMv89MNspaF5+VGAJ8CB9KGS3j+jZFQ3/RGlJced65vsPyIfMUg7lW7Gn2AOlAQ=="/>
-            </sparkle:deltas>
-            <description><![CDATA[
-                            <h2>Fixes and Improvements</h2>
-                            <ul>
-                                <li>Includes preparations for a future release</li>
-                            </ul>
-                            <h2>Known Issues</h2>
-                            <ul>
-                                <li>Scrolling the goal list may not work as intended and exhibit some “stuttering.” We are working on a solution and apologize for any inconvenience.</li>
-                            </ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.1</title>
-            <pubDate>Tue, 22 Apr 2025 10:06:33 +0200</pubDate>
-            <sparkle:version>20</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma.dmg" length="10010916" type="application/octet-stream" sparkle:edSignature="heZfjKnD4DJjs3WXLL3noMVxaVb72WZ9HYcjQlAH8drHeUNf+wYFvQvZWNpjPm8s6wdI8RSPMYlMQwcOE5FZCA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://delivery.kadomaru.app/daruma/Daruma20-19.delta" sparkle:deltaFrom="19" length="225070" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="eMjRwzNiUHBITIXtb4iKhcyt54q5hot1LuZVt+yVQPgXpLmGt55oBn4vWoMB5GQPCNAaaS0Z4YYSiU/JURzWDw=="/>
-            </sparkle:deltas>
-            <description><![CDATA[
-                            <h2>New Features</h2>
-                            <ul>
-                                <li>Adds localizations for Japanese (thanks, Nob!), German, and English (United Kingdom)</li>
-                            </ul>
-                            <h2>Fixes and Improvements</h2>
-                            <ul>
-                                <li>Adds tooltips to the goal checkboxes and toolbar buttons</li>
-                                <li>Text fields are now as wide as their contents, making it easier to reorder your goals</li>
-                                <li>Fixes an issue where an untitled goal would remain after quitting while a new goal was being added</li>
-                                <li>Fixes an issue where updates on the Express channel could not be found</li>
-                                <li>Fixes a few minor issues in the interface</li>
-                                <li>Includes minor updates behind the scenes</li>
-                            </ul>
                             <h2>Known Issues</h2>
                             <ul>
                                 <li>Scrolling the goal list may not work as intended and exhibit some “stuttering.” We are working on a solution and apologize for any inconvenience.</li>
