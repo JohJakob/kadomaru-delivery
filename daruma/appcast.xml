@@ -4,6 +4,33 @@
         <title>Daruma</title>
         <item>
             <title>1.2</title>
+            <pubDate>Tue, 08 Jul 2025 11:22:54 +0200</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma-Express.dmg" length="10350767" type="application/octet-stream" sparkle:edSignature="Jj8VFSxu0E/gdqFbIxeH4gTUCscPUanL3te5eiAaC7FDcpAjcDkCFYfHyFtSpMrJyLeM9apkLke9zof1Bm/CCw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://delivery.kadomaru.app/daruma/Daruma25-20.delta" sparkle:deltaFrom="20" length="770530" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="9110gBkPx97njBKFYuI7ocL8XjTBsgY25WPoy19zv2Ni8mxaeMUaqXmZLd3bTpmpVAyTgqPTu6gWEMbHtGEECg=="/>
+            </sparkle:deltas>
+            <description><![CDATA[
+                            <h2>New Features</h2>
+                            <ul>
+                                <li>The Dock icon and in-app Daruma icons are now displayed with eyes to match the state of the goals: One eye is filled in if at least one goal is “in progress” and none are completed, two eyes are filled in if at least one goal is completed and none are “in progress.”</li>
+                            </ul>
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Fixes an issue with state management</li>
+                                <li>Includes preparations for a future release</li>
+                            </ul>
+                            <p><em>Please be advised that this update modifies the app’s database, which may result in data loss. If you encounter issues such as missing goals or a complete loss of all previously present goals, please contact us at <a href="mailto:webmaster@kadomaru.app">webmaster@kadomaru.app</a>. Please proceed with caution or switch to the Standard delivery channel in Daruma → Settings… → Updates. Thank you!</em></p>
+                            <h2>Known Issues</h2>
+                            <ul>
+                                <li>Scrolling the goal list may not work as intended and exhibit some “stuttering.” We are working on a solution and apologize for any inconvenience.</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.2</title>
             <pubDate>Fri, 04 Jul 2025 20:20:40 +0200</pubDate>
             <sparkle:version>24</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
@@ -34,29 +61,6 @@
             <enclosure url="https://delivery.kadomaru.app/daruma/Daruma-Express.dmg" length="10113182" type="application/octet-stream" sparkle:edSignature="P6RPZJCmLyVTE9Bnm0Rc4lReJy07eSXh6h4zYWkE3qDrm6BfHHeD4U+XB/9Kx1FxMzUZB0ptUl7eXKseZ1H7BA=="/>
             <sparkle:deltas>
                 <enclosure url="https://delivery.kadomaru.app/daruma/Daruma23-20.delta" sparkle:deltaFrom="20" length="402178" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="jpIyY4jOfnH7oQr3KXe6ZFA6sGHJBD5pN7Tl4jfRR8xO8z0WQEzAULKFFYNJNZSPl7TxEsgCmqCFpgkh5skWAw=="/>
-            </sparkle:deltas>
-            <description><![CDATA[
-                            <h2>Fixes and Improvements</h2>
-                            <ul>
-                                <li>Includes preparations for a future release</li>
-                                <li>Includes minor updates behind the scenes</li>
-                            </ul>
-                            <p><em>Please be advised that this update modifies the app’s database, which may result in data loss. If you encounter issues such as missing goals or a complete loss of all previously present goals, please contact us at <a href="mailto:webmaster@kadomaru.app">webmaster@kadomaru.app</a>. Please proceed with caution or switch to the Standard delivery channel in Daruma → Settings… → Updates. Thank you!</em></p>
-                            <h2>Known Issues</h2>
-                            <ul>
-                                <li>Scrolling the goal list may not work as intended and exhibit some “stuttering.” We are working on a solution and apologize for any inconvenience.</li>
-                            </ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.2</title>
-            <pubDate>Mon, 16 Jun 2025 15:19:36 +0200</pubDate>
-            <sparkle:version>22</sparkle:version>
-            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma-Express.dmg" length="10096067" type="application/octet-stream" sparkle:edSignature="dxU+ZVTkzDPwpR2gCFCNms6N48XIp2VyymOpWuwVpjkvUIX/LYUotlTakKVVJB1OS4l8xT5ZSJ3UuWzpTrCLDg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://delivery.kadomaru.app/daruma/Daruma22-20.delta" sparkle:deltaFrom="20" length="371666" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="CSxc32LHmBxk62MbHnzZvpZdwXRRxWBG6fH0EfXIX4TQs7dARis4f6H45YRdzNFHnhDO1lC3VunF1wTSkDzpCQ=="/>
             </sparkle:deltas>
             <description><![CDATA[
                             <h2>Fixes and Improvements</h2>
