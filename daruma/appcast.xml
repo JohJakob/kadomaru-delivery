@@ -12,6 +12,22 @@
             <sparkle:deltas>
                 <enclosure url="https://delivery.kadomaru.app/daruma/Daruma25-20.delta" sparkle:deltaFrom="20" length="770530" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="9110gBkPx97njBKFYuI7ocL8XjTBsgY25WPoy19zv2Ni8mxaeMUaqXmZLd3bTpmpVAyTgqPTu6gWEMbHtGEECg=="/>
             </sparkle:deltas>
+            <description><![CDATA[
+                            <h2>New Features</h2>
+                            <ul>
+                                <li>The Dock icon and in-app Daruma icons are now displayed with eyes to match the state of the goals: One eye is filled in if at least one goal is “in progress” and none are completed, two eyes are filled in if at least one goal is completed and none are “in progress.”</li>
+                            </ul>
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Fixes an issue with state management</li>
+                                <li>Includes preparations for a future release</li>
+                            </ul>
+                            <p><em>Please be advised that this update modifies the app’s database, which may result in data loss. If you encounter issues such as missing goals or a complete loss of all previously present goals, please contact us at <a href="mailto:webmaster@kadomaru.app">webmaster@kadomaru.app</a>. Please proceed with caution or switch to the Standard delivery channel in Daruma → Settings… → Updates. Thank you!</em></p>
+                            <h2>Known Issues</h2>
+                            <ul>
+                                <li>Scrolling the goal list may not work as intended and exhibit some “stuttering.” We are working on a solution and apologize for any inconvenience.</li>
+                            </ul>
+							]]></description>
         </item>
         <item>
             <title>1.2</title>
