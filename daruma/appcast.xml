@@ -4,6 +4,17 @@
         <title>Daruma</title>
         <item>
             <title>1.2</title>
+            <pubDate>Fri, 18 Jul 2025 13:12:28 +0200</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma-Express.dmg" length="10338054" type="application/octet-stream" sparkle:edSignature="0dMKzZo17uuptvvMbNuOBy0IhwMqf7oy8k5Ej8+pEg6BAAFrJJmK1KHpHZqO+dGWmBLYlAwR0q2EI/VptGQMDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://delivery.kadomaru.app/daruma/Daruma27-20.delta" sparkle:deltaFrom="20" length="932202" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="biTtHMOaynn97vWW3qGDuXL3AuhxnRk2/9nB5aLalLmXGC/fCI4UHp8EdazxjPpXigkL0aMhxB1TNkN7/h4nBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.2</title>
             <pubDate>Tue, 15 Jul 2025 11:21:19 +0200</pubDate>
             <sparkle:version>26</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
@@ -44,29 +55,6 @@
                             <h2>Fixes and Improvements</h2>
                             <ul>
                                 <li>Fixes an issue with state management</li>
-                                <li>Includes preparations for a future release</li>
-                            </ul>
-                            <p><em>Please be advised that this update modifies the app’s database, which may result in data loss. If you encounter issues such as missing goals or a complete loss of all previously present goals, please contact us at <a href="mailto:webmaster@kadomaru.app">webmaster@kadomaru.app</a>. Please proceed with caution or switch to the Standard delivery channel in Daruma → Settings… → Updates. Thank you!</em></p>
-                            <h2>Known Issues</h2>
-                            <ul>
-                                <li>Scrolling the goal list may not work as intended and exhibit some “stuttering.” We are working on a solution and apologize for any inconvenience.</li>
-                            </ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.2</title>
-            <pubDate>Fri, 04 Jul 2025 20:20:40 +0200</pubDate>
-            <sparkle:version>24</sparkle:version>
-            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma-Express.dmg" length="10138500" type="application/octet-stream" sparkle:edSignature="NS1hYI0zsV+zglE8m2rIPOL7DDT9UiI7eKc9SIMvKFqgllJ4UXpLDgrTXukvF5ZxmxPf7MY9QSCFDwv9L+r7DQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://delivery.kadomaru.app/daruma/Daruma24-20.delta" sparkle:deltaFrom="20" length="443254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="KbsZUsEXqHr7H39FTCMyvgXEyKzi2RnM3CxtsZ1xpmACBii14jjCGa0KkvQG6v4Xh2li2Y8YtlolSeVNCSYHDA=="/>
-            </sparkle:deltas>
-            <description><![CDATA[
-                            <h2>Fixes and Improvements</h2>
-                            <ul>
-                                <li>Improves the app’s internal state management</li>
                                 <li>Includes preparations for a future release</li>
                             </ul>
                             <p><em>Please be advised that this update modifies the app’s database, which may result in data loss. If you encounter issues such as missing goals or a complete loss of all previously present goals, please contact us at <a href="mailto:webmaster@kadomaru.app">webmaster@kadomaru.app</a>. Please proceed with caution or switch to the Standard delivery channel in Daruma → Settings… → Updates. Thank you!</em></p>
