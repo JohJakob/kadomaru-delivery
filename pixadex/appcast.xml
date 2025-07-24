@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Pixadex</title>
+        <item>
+            <title>4.0</title>
+            <pubDate>Thu, 24 Jul 2025 11:44:15 +0200</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://johjakob.com/pixadex/Pixadex.dmg" length="20272186" type="application/octet-stream" sparkle:edSignature="G0sr46bzNxb74O0bGryGJmyu5t0fa8JCdWCwTIB0fPj4c1pEBKnMwjml7+AqhfJCbZAUk2+DV6o0/X3GQRMcDQ=="/>
+        </item>
+    </channel>
+</rss>
