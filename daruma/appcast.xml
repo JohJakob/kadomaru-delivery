@@ -5,6 +5,7 @@
         <item>
             <title>1.2</title>
             <pubDate>Fri, 18 Jul 2025 13:12:28 +0200</pubDate>
+            <sparkle:channel>express</sparkle:channel>
             <sparkle:version>27</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
@@ -27,6 +28,7 @@
         <item>
             <title>1.2</title>
             <pubDate>Tue, 15 Jul 2025 11:21:19 +0200</pubDate>
+            <sparkle:channel>express</sparkle:channel>
             <sparkle:version>26</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
@@ -51,6 +53,7 @@
         <item>
             <title>1.2</title>
             <pubDate>Tue, 08 Jul 2025 11:22:54 +0200</pubDate>
+            <sparkle:channel>express</sparkle:channel>
             <sparkle:version>25</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
@@ -78,7 +81,6 @@
         <item>
             <title>1.1</title>
             <pubDate>Wed, 16 Apr 2025 21:24:58 +0200</pubDate>
-            <sparkle:channel>express</sparkle:channel>
             <sparkle:version>19</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
