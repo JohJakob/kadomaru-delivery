@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>White Rabbit</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Fri, 25 Jul 2025 11:21:46 +0200</pubDate>
+            <sparkle:channel>Express</sparkle:channel>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/white-rabbit/White%20Rabbit-Express.dmg" length="11151443" type="application/octet-stream" sparkle:edSignature="cIemQSlceSHdH/bAevTtbp5Kno2u/BUYIHNiRj32/zKNYdY3xXu/Uo64m7gqPNmML8M2vJoaln/ebO6whz6fDg=="/>
+        </item>
+    </channel>
+</rss>
