@@ -4,6 +4,27 @@
         <title>Pixadex</title>
         <item>
             <title>4.0</title>
+            <pubDate>Mon, 28 Jul 2025 15:02:57 +0200</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/pixadex/Pixadex.dmg" length="20988746" type="application/octet-stream" sparkle:edSignature="Vv9fbQc3NwYp24Jxh+Pmi25bxBKnBfDqs7uni5Th2pudGWxmXSI2ieJoiGUnMKtFO56YjfJW+oi48PoMnOMTCQ=="/>
+        </item>
+        <description><![CDATA[
+                            <h2>New Features</h2>
+                            <ul>
+                                <li>Adds a new app icon for macOS 26 Tahoe</li>
+                            </ul>
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Adds links to the Help menu</li>
+                                <li>Improves low-resolution emulation which is now only available on supported displays with high pixel density and a peak brightness of at least 1,500 cd/m<sup>2</sup> (nits)</li>
+                                <li>Fixes an issue with over-the-air updates</li>
+                                <li>Includes updates behind the scenes</li>
+                            </ul>
+							]]></description>
+        <item>
+            <title>4.0</title>
             <pubDate>Thu, 24 Jul 2025 11:44:15 +0200</pubDate>
             <sparkle:version>13</sparkle:version>
             <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
