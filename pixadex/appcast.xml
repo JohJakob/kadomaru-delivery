@@ -4,6 +4,34 @@
         <title>Pixadex</title>
         <item>
             <title>4.0</title>
+            <pubDate>Wed, 30 Jul 2025 14:44:14 +0200</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/pixadex/Pixadex.dmg" length="21420828" type="application/octet-stream" sparkle:edSignature="oZZ0jlbx+YoqCrTpRXBgXV4LMYKh3lsFhw/672mD2ZKxAO3Jk+sfsolmRgAvhm/XVsbwDl0OtizXu9W6vyutAQ=="/>
+            <description><![CDATA[
+                            <h2>New Features</h2>
+                            <ul>
+                                <li>Adds an “Express” update delivery channel for pre-release updates. Switch delivery channels in Pixadex &rarr; Settings&hellip; &rarr; Updates</li>
+                            </ul>
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Improves performance and interface responsiveness while scrolling and changing the icon preview size</li>
+                                <li>Fixes an issue where the window would resize when changing the view mode</li>
+                                <li>Improves the window resizing behavior</li>
+                                <li>The icon names are no longer displayed when the icon preview size is below 64 pixels</li>
+                                <li>Improves the status bar layout</li>
+                                <li>Reverts the app icon to the original for all macOS versions (see <em>Known Issues</em>)</li>
+                                <li>Includes minor improvements behind the scenes</li>
+                            </ul>
+                            <h2>Known Issues</h2>
+                            <ul>
+                                <li>Due to changing behaviors in the beta release cycle of Xcode 26, we are currently unable to provide app icons tailored to each version of macOS. For now, Pixadex uses the original icon intended for macOS 15 Sequoia.</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
+            <title>4.0</title>
             <pubDate>Mon, 28 Jul 2025 15:02:57 +0200</pubDate>
             <sparkle:version>14</sparkle:version>
             <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
