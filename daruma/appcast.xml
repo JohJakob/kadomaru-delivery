@@ -4,6 +4,34 @@
         <title>Daruma</title>
         <item>
             <title>1.2</title>
+            <pubDate>Mon, 25 Aug 2025 09:17:08 +0200</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma.dmg" length="10342160" type="application/octet-stream" sparkle:edSignature="eBQeVtlTkE6bdVXOPgKsAD9nLa4MUMFxcPutM3vM3424VJHsfWoXUIycKQQ6SKPqWSAPWIvb9e4g2D11ihVDAQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://delivery.kadomaru.app/daruma/Daruma28-27.delta" sparkle:deltaFrom="27" length="198094" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="1ykckMsY5a9u3Vs1gXZENxs+bKUz+eWQJoRnk4YXo2fb2Bal5OwKOb/Fl2Lbm8BAtfSkA4XZ8jOTrIO8tcE5BQ=="/>
+            </sparkle:deltas>
+            <description><![CDATA[
+            					<h2>New Features</h2>
+            					<ul>
+            						<li>The eyes of the daruma in the Dock tile and app icons displayed in the app are now filled in based on in-progress and completed goals. Please note that Daruma’s Dock Tile extension must be enabled in System Settings for this feature to work when the app is not running.</li>
+            					</ul>
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Fixes several issues with the app’s database</li>
+                                <li>Fixes minor issues with the interface</li>
+                                <li>Includes a hidden feature coming in a future release. Can you unlock it? (It is difficult to find and there is no prize!)</li>
+                            </ul>
+                            <h2>Known Issues</h2>
+                            <ul>
+                                <li>Scrolling the goal list may not work as intended and exhibit some “stuttering.” We are working on a solution and apologize for any inconvenience.</li>
+                                <li>When burning completed goals, the “burning” animation may not appear on macOS 26 Tahoe. We are investigating the issue and apologize for the absence of this fun feature.</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.2</title>
             <pubDate>Fri, 18 Jul 2025 13:12:28 +0200</pubDate>
             <sparkle:channel>express</sparkle:channel>
             <sparkle:version>27</sparkle:version>
@@ -13,70 +41,6 @@
             <sparkle:deltas>
                 <enclosure url="https://delivery.kadomaru.app/daruma/Daruma27-20.delta" sparkle:deltaFrom="20" length="932202" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="biTtHMOaynn97vWW3qGDuXL3AuhxnRk2/9nB5aLalLmXGC/fCI4UHp8EdazxjPpXigkL0aMhxB1TNkN7/h4nBA=="/>
             </sparkle:deltas>
-            <description><![CDATA[
-                            <h2>Fixes and Improvements</h2>
-                            <ul>
-                                <li>Includes preparations for a future release</li>
-                            </ul>
-                            <p><em>Please be advised that this update modifies the app’s database, which may result in data loss. If you encounter issues such as missing goals or a complete loss of all previously present goals, please contact us at <a href="mailto:webmaster@kadomaru.app">webmaster@kadomaru.app</a>. Please proceed with caution or switch to the Standard delivery channel in Daruma → Settings… → Updates. Thank you!</em></p>
-                            <h2>Known Issues</h2>
-                            <ul>
-                                <li>Scrolling the goal list may not work as intended and exhibit some “stuttering.” We are working on a solution and apologize for any inconvenience.</li>
-                            </ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.2</title>
-            <pubDate>Tue, 15 Jul 2025 11:21:19 +0200</pubDate>
-            <sparkle:channel>express</sparkle:channel>
-            <sparkle:version>26</sparkle:version>
-            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma-Express.dmg" length="10350032" type="application/octet-stream" sparkle:edSignature="fhfyaJmGMT/ei9b6QhizYkB0YRirR4BXa8KjT5m0VIS271Er4HQPS6izEnK8a8fr8fAiQv/mO5ziUh1adR2ABg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://delivery.kadomaru.app/daruma/Daruma26-20.delta" sparkle:deltaFrom="20" length="770322" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="lHNBOxKl6iGgVGwy+tz/18vWbrfsFdYmNxoxi2LDXpQ9tqmybrScmvWKvYb2ea568H6yOFXnwm/HQv1MXx18BQ=="/>
-            </sparkle:deltas>
-            <description><![CDATA[
-                            <h2>Fixes and Improvements</h2>
-                            <ul>
-                                <li>Improves the rules determining when Daruma’s eyes should be filled in</li>
-                                <li>The Daruma displayed in the burning warning dialog is now shown with both eyes filled in</li>
-                                <li>Fixes a window resizing issue</li>
-                            </ul>
-                            <p><em>Please be advised that this update modifies the app’s database, which may result in data loss. If you encounter issues such as missing goals or a complete loss of all previously present goals, please contact us at <a href="mailto:webmaster@kadomaru.app">webmaster@kadomaru.app</a>. Please proceed with caution or switch to the Standard delivery channel in Daruma → Settings… → Updates. Thank you!</em></p>
-                            <h2>Known Issues</h2>
-                            <ul>
-                                <li>Scrolling the goal list may not work as intended and exhibit some “stuttering.” We are working on a solution and apologize for any inconvenience.</li>
-                            </ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.2</title>
-            <pubDate>Tue, 08 Jul 2025 11:22:54 +0200</pubDate>
-            <sparkle:channel>express</sparkle:channel>
-            <sparkle:version>25</sparkle:version>
-            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma-Express.dmg" length="10350767" type="application/octet-stream" sparkle:edSignature="Jj8VFSxu0E/gdqFbIxeH4gTUCscPUanL3te5eiAaC7FDcpAjcDkCFYfHyFtSpMrJyLeM9apkLke9zof1Bm/CCw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://delivery.kadomaru.app/daruma/Daruma25-20.delta" sparkle:deltaFrom="20" length="770530" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="9110gBkPx97njBKFYuI7ocL8XjTBsgY25WPoy19zv2Ni8mxaeMUaqXmZLd3bTpmpVAyTgqPTu6gWEMbHtGEECg=="/>
-            </sparkle:deltas>
-            <description><![CDATA[
-                            <h2>New Features</h2>
-                            <ul>
-                                <li>The Dock icon and in-app Daruma icons are now displayed with eyes to match the state of the goals: One eye is filled in if at least one goal is “in progress” and none are completed, two eyes are filled in if at least one goal is completed and none are “in progress.”</li>
-                            </ul>
-                            <h2>Fixes and Improvements</h2>
-                            <ul>
-                                <li>Fixes an issue with state management</li>
-                                <li>Includes preparations for a future release</li>
-                            </ul>
-                            <p><em>Please be advised that this update modifies the app’s database, which may result in data loss. If you encounter issues such as missing goals or a complete loss of all previously present goals, please contact us at <a href="mailto:webmaster@kadomaru.app">webmaster@kadomaru.app</a>. Please proceed with caution or switch to the Standard delivery channel in Daruma → Settings… → Updates. Thank you!</em></p>
-                            <h2>Known Issues</h2>
-                            <ul>
-                                <li>Scrolling the goal list may not work as intended and exhibit some “stuttering.” We are working on a solution and apologize for any inconvenience.</li>
-                            </ul>
-							]]></description>
         </item>
         <item>
             <title>1.1</title>
