@@ -12,6 +12,23 @@
             <sparkle:deltas>
                 <enclosure url="https://delivery.kadomaru.app/daruma/Daruma28-27.delta" sparkle:deltaFrom="27" length="198094" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="1ykckMsY5a9u3Vs1gXZENxs+bKUz+eWQJoRnk4YXo2fb2Bal5OwKOb/Fl2Lbm8BAtfSkA4XZ8jOTrIO8tcE5BQ=="/>
             </sparkle:deltas>
+            <description><![CDATA[
+            					<h2>New Features</h2>
+            					<ul>
+            						<li>The eyes of the daruma in the Dock tile and app icons displayed in the app are now filled in based on in-progress and completed goals. Please note that Daruma’s Dock Tile extension must be enabled in System Settings for this feature to work when the app is not running.</li>
+            					</ul>
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Fixes several issues with the app’s database</li>
+                                <li>Fixes minor issues with the interface</li>
+                                <li>Includes a hidden feature coming in a future release. Can you unlock it? (It is difficult to find and there is no prize!)</li>
+                            </ul>
+                            <h2>Known Issues</h2>
+                            <ul>
+                                <li>Scrolling the goal list may not work as intended and exhibit some “stuttering.” We are working on a solution and apologize for any inconvenience.</li>
+                                <li>When burning completed goals, the “burning” animation may not appear on macOS 26 Tahoe. We are investigating the issue and apologize for the absence of this fun feature.</li>
+                            </ul>
+							]]></description>
         </item>
         <item>
             <title>1.2</title>
