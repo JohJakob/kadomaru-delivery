@@ -4,6 +4,30 @@
         <title>White Rabbit</title>
         <item>
             <title>1.0</title>
+            <pubDate>Thu, 28 Aug 2025 11:33:20 +0200</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/white-rabbit/White%20Rabbit.dmg" length="11167857" type="application/octet-stream" sparkle:edSignature="+rU84ZY10xmDqNQ6b3N2XxRKuAc80YKqZiAfKNXhvQmByeV0DtyHV8PuK6WnTZzdqynWImgM44wKrOIbUECcDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://delivery.kadomaru.app/white-rabbit/White%20Rabbit4-3.delta" sparkle:deltaFrom="3" length="355234" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="4ppcyToomQ7hWNWofCgiwu0zZfP+J7c0ElwEXWSkpcstVQY+boF6Hxe6NsxMJq98zJM/XTSnEmzddlXoNxt+DQ=="/>
+            </sparkle:deltas>
+            <description><![CDATA[
+                            <h2>New Features</h2>
+                            <ul>
+                                <li>Adds a “Show in Finder” button that appears when hovering over the file path</li>
+                                <li>Enables exporting SVG files by dragging files from White Rabbit to other apps</li>
+                            </ul>
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Improves the performance of optimizing SVG files</li>
+                                <li>Fixes an issue where the order of the text output did not reflect the order of the input files</li>
+                                <li>Includes minor interface improvements</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Fri, 25 Jul 2025 11:21:46 +0200</pubDate>
             <sparkle:channel>Express</sparkle:channel>
             <sparkle:version>3</sparkle:version>
