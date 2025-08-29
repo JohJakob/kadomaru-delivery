@@ -4,6 +4,25 @@
         <title>Pixadex</title>
         <item>
             <title>4.0</title>
+            <pubDate>Fri, 29 Aug 2025 10:07:44 +0200</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:channel>Express</sparkle:channel>
+            <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/pixadex/Pixadex-Express.dmg" length="19712169" type="application/octet-stream" sparkle:edSignature="bKFZYQXXCy7PfixOHWlwDjZLBK7RsDCcocLI93P9nL2Viad/yur6CpMJ3KKFgM9XMsUIUbMy97ssAHC4oK78DQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://delivery.kadomaru.app/pixadex/Pixadex16-15.delta" sparkle:deltaFrom="15" length="1600302" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="/tQJ2rlI0F1w+UWn0bGRdszVejEE1NJBXYEsWO1jLyxjLDIuQFLTFh5hAlo6xxZKj5ILiRPdkKOVTmuo96EBDQ=="/>
+            </sparkle:deltas>
+            <description><![CDATA[
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Uses the appropriate app icons for each version of macOS</li>
+                                <li>Fixes an issue where low-resolution emulation could be enabled automatically after launching Pixadex</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
+            <title>4.0</title>
             <pubDate>Wed, 30 Jul 2025 14:44:14 +0200</pubDate>
             <sparkle:version>15</sparkle:version>
             <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
@@ -51,13 +70,5 @@
                                 <li>Includes updates behind the scenes</li>
                             </ul>
 							]]></description>
-        <item>
-            <title>4.0</title>
-            <pubDate>Thu, 24 Jul 2025 11:44:15 +0200</pubDate>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>4.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://johjakob.com/pixadex/Pixadex.dmg" length="20272186" type="application/octet-stream" sparkle:edSignature="G0sr46bzNxb74O0bGryGJmyu5t0fa8JCdWCwTIB0fPj4c1pEBKnMwjml7+AqhfJCbZAUk2+DV6o0/X3GQRMcDQ=="/>
-        </item>
     </channel>
 </rss>
