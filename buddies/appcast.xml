@@ -4,6 +4,27 @@
         <title>Buddies</title>
         <item>
             <title>1.0</title>
+            <pubDate>Fri, 29 Aug 2025 14:52:17 +0200</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/buddies/Buddies.dmg" length="7081451" type="application/octet-stream" sparkle:edSignature="R4K3FLKixc/xbBJqw/TD3fSyGIyMzL8o4ttHNg1KQLp+MrMqgNAjcZOhULNcJi/yzxcBqjocJVpLtvaDInc3Bg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://delivery.kadomaru.app/buddies/Buddies4-3.delta" sparkle:deltaFrom="3" length="1361594" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="qCZtU1J4s+hpmxdi+3npKnNbyrNO18cAHq7FC73pdH2tqVsyKshmdDLSrwwmoAiBhh81YlnlSou/rILGv4RVCQ=="/>
+            </sparkle:deltas>
+            <description><![CDATA[
+            					<h2>New Features</h2>
+            					<ul>
+            						<li>Adds a new app icon for macOS 26 Tahoe</li>
+            					</ul>
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Includes minor improvements to the interface</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Fri, 02 May 2025 11:17:24 +0200</pubDate>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
