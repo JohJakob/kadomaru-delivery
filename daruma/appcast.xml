@@ -3,6 +3,28 @@
     <channel>
         <title>Daruma</title>
         <item>
+            <title>1.2.1</title>
+            <pubDate>Tue, 23 Sep 2025 11:42:31 +0200</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma.dmg" length="10386709" type="application/octet-stream" sparkle:edSignature="FV7vmrjF5/m4iP5Qk+Nj8Zg4Libz9FaOzyrHjTEdzlDMbQh5vlbeuZLJdh9aAo5x/ZN9QF9+EYAPH4Egm/o6Cg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://delivery.kadomaru.app/daruma/Daruma29-27.delta" sparkle:deltaFrom="27" length="777026" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="ZEISuxn83JrTAgZX12xW7YzetH1ID0vcg+Fu5NyY7u2BEAWHGrYsnC7xjsHp7uQaqdoCK6g1yN59StAUrbgaBQ=="/>
+            </sparkle:deltas>
+            <description><![CDATA[
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Includes minor improvements behind the scenes</li>
+                            </ul>
+                            <h2>Known Issues</h2>
+                            <ul>
+                                <li>Scrolling the goal list may not work as intended and exhibit some “stuttering.” We are working on a solution and apologize for any inconvenience.</li>
+                                <li>When burning completed goals, the “burning” animation may not appear on macOS 26 Tahoe. We are investigating the issue and apologize for the absence of this fun feature.</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
             <title>1.2</title>
             <pubDate>Mon, 25 Aug 2025 09:17:08 +0200</pubDate>
             <sparkle:version>28</sparkle:version>
