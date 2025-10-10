@@ -3,6 +3,31 @@
     <channel>
         <title>White Rabbit</title>
         <item>
+            <title>1.1</title>
+            <pubDate>Fri, 10 Oct 2025 14:16:55 +0200</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/white-rabbit/White%20Rabbit.dmg" length="11088064" type="application/octet-stream" sparkle:edSignature="+F62nBb57NibSXpiZQrIcGOYZZXZo3xvA1MyRi4C3dud6FyOq27pPfQSEptSgZccRrqIxho7yyfdFTBBpm61DQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://delivery.kadomaru.app/white-rabbit/White%20Rabbit5-3.delta" sparkle:deltaFrom="3" length="967006" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="u9fb1cVSqG41nGTVPmhpabNwH1jaSC0brnmRrPr6CZ/UywaIyn9FuuTdpbqLZmx0YBhg+EhIWhjmG5r0WqO0Ag=="/>
+            </sparkle:deltas>
+            <description><![CDATA[
+                            <h2>New Features</h2>
+                            <ul>
+                                <li>Adds German localization</li>
+                                <li>Adds a link to the SVGO documentation to the Help menu</li>
+                            </ul>
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Improves the setup sheet</li>
+                                <li>Adds a context menu to the table containing a button to show the file import dialog</li>
+                                <li>Unifies button labels</li>
+                                <li>Improves the launch behavior</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Thu, 28 Aug 2025 11:33:20 +0200</pubDate>
             <sparkle:version>4</sparkle:version>
