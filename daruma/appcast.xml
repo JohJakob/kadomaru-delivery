@@ -3,6 +3,31 @@
     <channel>
         <title>Daruma</title>
         <item>
+            <title>1.2.2</title>
+            <pubDate>Sun, 12 Oct 2025 12:26:24 +0200</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma.dmg" length="10403819" type="application/octet-stream" sparkle:edSignature="9CVbyRP53EHM1hHizvwyXl9tl/CZXFTYBC9Y8mOD3Q42fMBsiLdMS93tQxcC65kKhgZdVe6LOZt7GAlVJ9iTAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://delivery.kadomaru.app/daruma/Daruma30-27.delta" sparkle:deltaFrom="27" length="812618" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="NKaeoDvbFhtlZ/jj8PHaL5gc9q14UrNT+4aKIl6Ef3XkPTErS2YM2/AGsvR4G/N5II5bD4MNTbZsxA3BsguVAA=="/>
+            </sparkle:deltas>
+            <description><![CDATA[
+                            <h2>New Features</h2>
+                            <ul>
+                                <li>Adds a “Don’t ask again” checkbox to the confirmation dialog when burning completed goals. The confirmation dialog can be enabled/disabled at any time in the settings.</li>
+                            </ul>
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Fixes an issue where the window showing completed goals being burnt was not visible on macOS 26 Tahoe</li>
+                            </ul>
+                            <h2>Known Issues</h2>
+                            <ul>
+                                <li>Scrolling the goal list may not work as intended and exhibit some “stuttering.” We are working on a solution and apologize for any inconvenience.</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
             <title>1.2.1</title>
             <pubDate>Tue, 23 Sep 2025 11:42:31 +0200</pubDate>
             <sparkle:version>29</sparkle:version>
@@ -63,29 +88,6 @@
             <sparkle:deltas>
                 <enclosure url="https://delivery.kadomaru.app/daruma/Daruma27-20.delta" sparkle:deltaFrom="20" length="932202" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="biTtHMOaynn97vWW3qGDuXL3AuhxnRk2/9nB5aLalLmXGC/fCI4UHp8EdazxjPpXigkL0aMhxB1TNkN7/h4nBA=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.1</title>
-            <pubDate>Wed, 16 Apr 2025 21:24:58 +0200</pubDate>
-            <sparkle:version>19</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma-Express.dmg" length="10013321" type="application/octet-stream" sparkle:edSignature="ow1juoZa6EFLjzpbwPYHo7UWu2DiRkxXVZBusJdksw9keWDNTw1DynNV0V3RxCIywzjYjd+E1GMvBeLS+BElAg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://delivery.kadomaru.app/daruma/Daruma19-15.delta" sparkle:deltaFrom="15" length="579914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="AhaE+8Rr+ic3O8nd6w+hlCKQThe3TNBy8x/bafGZet1tQumaowcFxovNvaHJrlANjJ5xa93WC5xxHGeoG+ieBg=="/>
-            </sparkle:deltas>
-            <description><![CDATA[
-                            <h2>Fixes and Improvements</h2>
-                            <ul>
-                                <li>Corrects the Japanese localization</li>
-                                <li>Fixes a layout bug in the goal text fields for CJK text input</li>
-                                <li>Fixes an issue where an untitled goal would remain after quitting while a new goal was being added</li>
-                            </ul>
-                            <h2>Known Issues</h2>
-                            <ul>
-                                <li>Scrolling the goal list may not work as intended and exhibit some “stuttering.” We are working on a solution and apologize for any inconvenience.</li>
-                            </ul>
-							]]></description>
         </item>
     </channel>
 </rss>
