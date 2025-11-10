@@ -3,6 +3,32 @@
     <channel>
         <title>White Rabbit</title>
         <item>
+            <title>1.2</title>
+            <pubDate>Mon, 10 Nov 2025 09:23:07 +0100</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/white-rabbit/White%20Rabbit.dmg" length="11017585" type="application/octet-stream" sparkle:edSignature="fivaEHXCBklR9kFRxlJRfyd6o/V3/IP4j/9wxtE1ssL57j4isRiHKY/VXADY8FIdKccvVhws3xoLaoRxrxE2Dg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://delivery.kadomaru.app/white-rabbit/White%20Rabbit6-3.delta" sparkle:deltaFrom="3" length="1269874" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="S9Je3cOTg/qgg3c9cmrVpxSADzsF5FReUH6/IfbM4u0iMGP70CpESsQPz1t4NXOwu5RpPjRX6Xgb2UeCTOILDw=="/>
+            </sparkle:deltas>
+            <description><![CDATA[
+                            <h2>New Features</h2>
+                            <ul>
+                                <li>The table now displays thumbnail images. Thumbnail size can be adjusted in the settings.</li>
+                                <li>Adds functionality to preview files using Quick Look. Select a file and press the spacebar or choose “Quick Look” from the “View” or context menu.</li>
+                                <li>The status bar now shows the number of added files.</li>
+                                <li>Adds localization for English (United Kingdom)</li>
+                            </ul>
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Improves the file context menu. It now takes the current selection into account.</li>
+                                <li>Adds a help link for the “SVGO Configuration” section in the profile editor</li>
+                                <li>Includes minor improvements to the interface</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
             <title>1.1</title>
             <pubDate>Fri, 10 Oct 2025 14:16:55 +0200</pubDate>
             <sparkle:version>5</sparkle:version>
