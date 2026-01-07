@@ -3,6 +3,28 @@
     <channel>
         <title>Daruma</title>
         <item>
+            <title>1.2.4</title>
+            <pubDate>Wed, 07 Jan 2026 10:30:55 +0100</pubDate>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>1.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma.dmg" length="10426911" type="application/octet-stream" sparkle:edSignature="t8MH8BBC7e0glh2P3kgblg5ARad+PcIOPAnuni0tVNMaCvtSOlOrD2GKGZKC8Nucq7YlfcGIKdZrbp1iNqChAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://delivery.kadomaru.app/daruma/Daruma32-27.delta" sparkle:deltaFrom="27" length="983790" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="IoqQ4dP8LJ3tRC+tn4cSDdPO9S7Qm1cB8FF+H+dw1yJmFbPdLOUYygvhlEu5AadwxO60MXD6vaVNJVvQQHfCBA=="/>
+            </sparkle:deltas>
+            <description><![CDATA[
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Removes the icons from the standard menu bar items for better clarity on macOS 26 Tahoe</li>
+                                <li>Includes minor updates and improvements behind the scenes</li>
+                            </ul>
+                            <h2>Known Issues</h2>
+                            <ul>
+                                <li>Scrolling the goal list may not work as intended and exhibit some “stuttering.” We are working on a solution and apologize for any inconvenience.</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
             <title>1.2.3</title>
             <pubDate>Sun, 12 Oct 2025 16:40:35 +0200</pubDate>
             <sparkle:version>31</sparkle:version>
@@ -45,56 +67,6 @@
                             <h2>Known Issues</h2>
                             <ul>
                                 <li>Scrolling the goal list may not work as intended and exhibit some “stuttering.” We are working on a solution and apologize for any inconvenience.</li>
-                            </ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.2.1</title>
-            <pubDate>Tue, 23 Sep 2025 11:42:31 +0200</pubDate>
-            <sparkle:version>29</sparkle:version>
-            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma.dmg" length="10386709" type="application/octet-stream" sparkle:edSignature="FV7vmrjF5/m4iP5Qk+Nj8Zg4Libz9FaOzyrHjTEdzlDMbQh5vlbeuZLJdh9aAo5x/ZN9QF9+EYAPH4Egm/o6Cg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://delivery.kadomaru.app/daruma/Daruma29-27.delta" sparkle:deltaFrom="27" length="777026" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="ZEISuxn83JrTAgZX12xW7YzetH1ID0vcg+Fu5NyY7u2BEAWHGrYsnC7xjsHp7uQaqdoCK6g1yN59StAUrbgaBQ=="/>
-            </sparkle:deltas>
-            <description><![CDATA[
-                            <h2>Fixes and Improvements</h2>
-                            <ul>
-                                <li>Includes minor improvements behind the scenes</li>
-                            </ul>
-                            <h2>Known Issues</h2>
-                            <ul>
-                                <li>Scrolling the goal list may not work as intended and exhibit some “stuttering.” We are working on a solution and apologize for any inconvenience.</li>
-                                <li>When burning completed goals, the “burning” animation may not appear on macOS 26 Tahoe. We are investigating the issue and apologize for the absence of this fun feature.</li>
-                            </ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.2</title>
-            <pubDate>Mon, 25 Aug 2025 09:17:08 +0200</pubDate>
-            <sparkle:version>28</sparkle:version>
-            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma.dmg" length="10342160" type="application/octet-stream" sparkle:edSignature="eBQeVtlTkE6bdVXOPgKsAD9nLa4MUMFxcPutM3vM3424VJHsfWoXUIycKQQ6SKPqWSAPWIvb9e4g2D11ihVDAQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://delivery.kadomaru.app/daruma/Daruma28-27.delta" sparkle:deltaFrom="27" length="198094" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="1ykckMsY5a9u3Vs1gXZENxs+bKUz+eWQJoRnk4YXo2fb2Bal5OwKOb/Fl2Lbm8BAtfSkA4XZ8jOTrIO8tcE5BQ=="/>
-            </sparkle:deltas>
-            <description><![CDATA[
-            					<h2>New Features</h2>
-            					<ul>
-            						<li>The eyes of the daruma in the Dock tile and app icons displayed in the app are now filled in based on in-progress and completed goals. Please note that Daruma’s Dock Tile extension must be enabled in System Settings for this feature to work when the app is not running.</li>
-            					</ul>
-                            <h2>Fixes and Improvements</h2>
-                            <ul>
-                                <li>Fixes several issues with the app’s database</li>
-                                <li>Fixes minor issues with the interface</li>
-                                <li>Includes a hidden feature coming in a future release. Can you unlock it? (It is difficult to find and there is no prize!)</li>
-                            </ul>
-                            <h2>Known Issues</h2>
-                            <ul>
-                                <li>Scrolling the goal list may not work as intended and exhibit some “stuttering.” We are working on a solution and apologize for any inconvenience.</li>
-                                <li>When burning completed goals, the “burning” animation may not appear on macOS 26 Tahoe. We are investigating the issue and apologize for the absence of this fun feature.</li>
                             </ul>
 							]]></description>
         </item>
