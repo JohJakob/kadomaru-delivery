@@ -3,6 +3,26 @@
     <channel>
         <title>White Rabbit</title>
         <item>
+            <title>1.3.1</title>
+            <pubDate>Wed, 11 Feb 2026 14:24:19 +0100</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/white-rabbit/White%20Rabbit.dmg" length="11506468" type="application/octet-stream" sparkle:edSignature="3BRnn9wb8uzuzxvcM2Z+frKcOQMUnVAVr1PC2fqpPjjfVC3Mm4EbqJ0/SIpm0BnaGSttu0+JtrVMEx7LZuTsDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://delivery.kadomaru.app/white-rabbit/White%20Rabbit8-3.delta" sparkle:deltaFrom="3" length="6055042" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="rrC+6mNLFZ1hB7gHsD8CQWU8ltvH/hW6QTF2wIDxeqjZlrszn3qwz1h3AoSJKIVr3FxNoxQRY7yB5YPhK/+TAQ=="/>
+            </sparkle:deltas>
+            <description><![CDATA[
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>The file and folder dialogs for adding files, choosing a configuration file, and choosing an output folder now remember their individual settings (such as last visited location, view options, etc.), making it more convenient and faster to choose desired files and folders</li>
+                                <li>Profiles can now be renamed directly in the list in settings</li>
+                                <li>Adds an action to reset the default profile</li>
+                                <li>Includes minor updates and improvements behind the scenes</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
             <title>1.3</title>
             <pubDate>Wed, 04 Feb 2026 08:43:33 +0100</pubDate>
             <sparkle:version>7</sparkle:version>
