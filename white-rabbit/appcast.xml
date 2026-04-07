@@ -3,6 +3,35 @@
     <channel>
         <title>White Rabbit</title>
         <item>
+            <title>1.4</title>
+            <pubDate>Tue, 07 Apr 2026 11:06:16 +0200</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/white-rabbit/White%20Rabbit.dmg" length="16684326" type="application/octet-stream" sparkle:edSignature="ria2P2vTUSD6N7tp01CCmQIVPc/UqvS2chSyjJT9zjY7CkKCKeZEh+a6KBfjlFb9Fj4/9mlM6roc5aw0l4oCCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://delivery.kadomaru.app/white-rabbit/White%20Rabbit9-3.delta" sparkle:deltaFrom="3" length="10073326" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="GAcZ48+oEdkawF7p0iYo2hWxc1imgJOUlgD2mGULdWpRXZXa5se1dVpeesWi06ZepGo99oyXFjwT+5TS1+U8BA=="/>
+            </sparkle:deltas>
+            <description><![CDATA[
+                            <h2>New Features</h2>
+                            <ul>
+                                <li>Adds syntax highlighting to the text output window</li>
+                                <li>File size improvement statistics are now also available in text mode</li>
+                            </ul>
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Improves how optimization works in text mode resulting in greatly reduced waiting times</li>
+                                <li>Fixes several issues in the text output window</li>
+                                <li>Fixes an issue where reordering files would not work correctly</li>
+                                <li>Adds tooltips in more places</li>
+                                <li>The profile selection is now preserved across app launches</li>
+                                <li>Improves the profile editor in settings</li>
+                                <li>Removes the ability to open multiple windows or tabs</li>
+                                <li>Includes minor updates and improvements behind the scenes</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
             <title>1.3.1</title>
             <pubDate>Wed, 11 Feb 2026 14:24:19 +0100</pubDate>
             <sparkle:version>8</sparkle:version>
