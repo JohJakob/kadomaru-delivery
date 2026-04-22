@@ -3,6 +3,28 @@
     <channel>
         <title>Daruma</title>
         <item>
+            <title>1.2.6</title>
+            <pubDate>Wed, 22 Apr 2026 11:36:20 +0200</pubDate>
+            <sparkle:version>34</sparkle:version>
+            <sparkle:shortVersionString>1.2.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma.dmg" length="10461066" type="application/octet-stream" sparkle:edSignature="ghfqUtRGTPjlT2ftM42EkhJKEuq8IEGDRsl3FrwORpx88Y97VNMscy+8kN1X2WeWlRzyK48wA52ilHOwVSY+DA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://delivery.kadomaru.app/daruma/Daruma34-27.delta" sparkle:deltaFrom="27" length="3310750" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="u1XIn2FnGBrhuhrg9qcbQTAt/evZi1soQ54DHHBxLVTH7nBedh7ebw11Uz4MeNPHuzlPJalfQD9/f8MCTA7zBw=="/>
+            </sparkle:deltas>
+            <description><![CDATA[
+                            <h2>New Features</h2>
+                            <ul>
+                                <li>New goals can be created by dragging and dropping text onto the window</li>
+                            </ul>
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>The toolbar button to burn completed goals now appears dimmed when Daruma is in the background</li>
+                                <li>Includes minor improvements and updates behind the scenes</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
             <title>1.2.5</title>
             <pubDate>Tue, 03 Feb 2026 10:02:59 +0100</pubDate>
             <sparkle:version>33</sparkle:version>
@@ -36,27 +58,6 @@
                             <ul>
                                 <li>Removes the icons from the standard menu bar items for better clarity on macOS 26 Tahoe</li>
                                 <li>Includes minor updates and improvements behind the scenes</li>
-                            </ul>
-                            <h2>Known Issues</h2>
-                            <ul>
-                                <li>Scrolling the goal list may not work as intended and exhibit some “stuttering.” We are working on a solution and apologize for any inconvenience.</li>
-                            </ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.2.3</title>
-            <pubDate>Sun, 12 Oct 2025 16:40:35 +0200</pubDate>
-            <sparkle:version>31</sparkle:version>
-            <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma.dmg" length="10403675" type="application/octet-stream" sparkle:edSignature="bdCawtFTIV4DjhNYx8MS9eVxmDus/Ys3OmjnMZi8MUKL0tRtRRmOPQ/Sq5jzk0gfB/QiakjCu15OrZTg79iCBg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://delivery.kadomaru.app/daruma/Daruma31-27.delta" sparkle:deltaFrom="27" length="813250" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="G+003r87u6Jv8Nt4lyWlxHoHyj7LFifaK8RduMfh3qB5rQLm9Ehb7hBWmujWePE0fA+yr6s8yQNYT1rsX7hRAQ=="/>
-            </sparkle:deltas>
-            <description><![CDATA[
-                            <h2>Fixes and Improvements</h2>
-                            <ul>
-                                <li>Adds missing translations to the Japanese and German localizations</li>
                             </ul>
                             <h2>Known Issues</h2>
                             <ul>
