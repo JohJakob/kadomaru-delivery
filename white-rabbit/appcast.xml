@@ -3,6 +3,37 @@
     <channel>
         <title>White Rabbit</title>
         <item>
+            <title>1.5</title>
+            <pubDate>Wed, 15 Jul 2026 11:41:00 +0200</pubDate>
+            <sparkle:channel>express</sparkle:channel>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/white-rabbit/White%20Rabbit-Express.dmg" length="16733958" type="application/octet-stream" sparkle:edSignature="8wiaCKudwKZzjM43lBdDlNP6KLdZbewcoMGksm4Egsf+GJhr4KHhv+thsiucRj/7W6jIfXV6ImAUIVpNSt45Aw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://delivery.kadomaru.app/white-rabbit/White%20Rabbit10-9.delta" sparkle:deltaFrom="9" length="1871990" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mgrw9RxYRF+rydva9s1ev0bVsNzO6AjzsD6YlZzLsroDsyT8trkOxiVfJXtQvfRLSchTUvk0p1dPkNkplo82AA=="/>
+            </sparkle:deltas>
+            <description><![CDATA[
+                            <h2>New Features</h2>
+                            <ul>
+                                <li>Uses the Liquid Glass design on macOS 26 Tahoe and later</li>
+                                <li>Files in the file list can now be cut and pasted</li>
+                                <li>Adds support for undo and redo for file list operations such as adding, removing, and reordering files</li>
+                            </ul>
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Improves the visual appearance of the file path in the file list</li>
+                                <li>Displays a different message when the processing did not result in file size savings</li>
+                                <li>Fixes a number of issues related to text mode options</li>
+                                <li>Fixes an issue where editing text fields in the inspector could neither be finished nor canceled using the keyboard</li>
+                                <li>Text mode now always separates individual SVG elements by a line break to improve performance in the text output window</li>
+                                <li>Text mode now always separates individual SVG elements by a line break to improve performance in the text output window</li>
+                                <li>Fixes layout issues in the inspector</li>
+                                <li>Includes minor updates and improvements behind the scenes</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
             <title>1.4</title>
             <pubDate>Tue, 07 Apr 2026 11:06:16 +0200</pubDate>
             <sparkle:version>9</sparkle:version>
