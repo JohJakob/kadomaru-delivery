@@ -3,6 +3,30 @@
     <channel>
         <title>Daruma</title>
         <item>
+            <title>1.3</title>
+            <pubDate>Wed, 29 Jul 2026 18:54:03 +0200</pubDate>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma.dmg" length="10463411" type="application/octet-stream" sparkle:edSignature="YmQDK8o2aLHP6h2sC2yg8kzXeKY9Ou4IDWyCQCyMJQvSIR7Ed03EyXjzH9+k4i0NnD1pljWspNG9VoDDLtGoDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://delivery.kadomaru.app/daruma/Daruma35-27.delta" sparkle:deltaFrom="27" length="3564330" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="nsqIXbzzs8CdD98tcxCQOMtOwCnoj1u0Norcop/lNoXMh/unyAJpfhmm8AiMrc0cdJRwbuhR2n7Cmq5AuEd6CQ=="/>
+            </sparkle:deltas>
+            <description><![CDATA[
+                            <h2>New Features</h2>
+                            <ul>
+                                <li>Uses the Liquid Glass design on macOS 26 Tahoe and later</li>
+                            </ul>
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Fixes an issue where goals could not be created after opening the app for the first time</li>
+                                <li>Improves accessibility</li>
+                                <li>Improves performance in the appearance settings</li>
+                                <li>Fixes an alignment issue in the updates settings</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
             <title>1.2.6</title>
             <pubDate>Wed, 22 Apr 2026 11:36:20 +0200</pubDate>
             <sparkle:version>34</sparkle:version>
@@ -40,28 +64,6 @@
                                 <li>Fixes an issue where scrolling the goal list would not work as intended and exhibit “stuttering.” Thank you for your patience!</li>
                                 <li>Resolves an issue where the window management buttons in the Zoom button popover were not displayed correctly on macOS 26 Tahoe. Thank you, Jon Sterling!</li>
                                 <li>Includes minor updates, bug fixes, and improvements behind the scenes</li>
-                            </ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.2.4</title>
-            <pubDate>Wed, 07 Jan 2026 10:30:55 +0100</pubDate>
-            <sparkle:version>32</sparkle:version>
-            <sparkle:shortVersionString>1.2.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma.dmg" length="10426911" type="application/octet-stream" sparkle:edSignature="t8MH8BBC7e0glh2P3kgblg5ARad+PcIOPAnuni0tVNMaCvtSOlOrD2GKGZKC8Nucq7YlfcGIKdZrbp1iNqChAg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://delivery.kadomaru.app/daruma/Daruma32-27.delta" sparkle:deltaFrom="27" length="983790" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="IoqQ4dP8LJ3tRC+tn4cSDdPO9S7Qm1cB8FF+H+dw1yJmFbPdLOUYygvhlEu5AadwxO60MXD6vaVNJVvQQHfCBA=="/>
-            </sparkle:deltas>
-            <description><![CDATA[
-                            <h2>Fixes and Improvements</h2>
-                            <ul>
-                                <li>Removes the icons from the standard menu bar items for better clarity on macOS 26 Tahoe</li>
-                                <li>Includes minor updates and improvements behind the scenes</li>
-                            </ul>
-                            <h2>Known Issues</h2>
-                            <ul>
-                                <li>Scrolling the goal list may not work as intended and exhibit some “stuttering.” We are working on a solution and apologize for any inconvenience.</li>
                             </ul>
 							]]></description>
         </item>
