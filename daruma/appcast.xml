@@ -3,6 +3,27 @@
     <channel>
         <title>Daruma</title>
         <item>
+            <title>1.3.1</title>
+            <pubDate>Mon, 03 Aug 2026 10:42:20 +0200</pubDate>
+            <sparkle:version>36</sparkle:version>
+            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma.dmg" length="10468491" type="application/octet-stream" sparkle:edSignature="SHeBRL7ynXBYc3leS1JZDzSo5wKcSLyQqAGccUdf7peAhjcT25M3kiBP2XsUudblcqTfjcQuSvr3Cj6rONbrCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://delivery.kadomaru.app/daruma/Daruma36-27.delta" sparkle:deltaFrom="27" length="3564982" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="+X0l1459A8nRlkktgW+5MGvHQzS8Ubk2VfxtPCtUtFY6DWcw7/DDHG38JSI9j7qtE7992yVe+OIzBgSSdXwCCQ=="/>
+            </sparkle:deltas>
+            <description><![CDATA[
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Improves the appearance of the toolbar buttons</li>
+                                <li>Fixes an issue where burning completed goals would not be visible on macOS Golden Gate 27</li>
+                                <li>Improves keyboard navigation in the warning dialog before burning completed goals</li>
+                                <li>Fixes a visual issue with the update delivery channel picker on macOS Golden Gate 27</li>
+                                <li>Includes minor updates behind the scenes</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
             <title>1.3</title>
             <pubDate>Wed, 29 Jul 2026 18:54:03 +0200</pubDate>
             <sparkle:version>35</sparkle:version>
@@ -45,25 +66,6 @@
                             <ul>
                                 <li>The toolbar button to burn completed goals now appears dimmed when Daruma is in the background</li>
                                 <li>Includes minor improvements and updates behind the scenes</li>
-                            </ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.2.5</title>
-            <pubDate>Tue, 03 Feb 2026 10:02:59 +0100</pubDate>
-            <sparkle:version>33</sparkle:version>
-            <sparkle:shortVersionString>1.2.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma.dmg" length="10383305" type="application/octet-stream" sparkle:edSignature="yWpJxBeMorpqfGXEQSpK7rJ2NyfQNn0/SA2KX9qN3bjAZ9J/T2BcyiNrqAK1+VxodaEHzpYlPxCXDPoSm5/zBA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://delivery.kadomaru.app/daruma/Daruma33-27.delta" sparkle:deltaFrom="27" length="3195186" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Wmj81nqEpQ+1RY2TgcgGORsrPnpHVBJH0Lfkb+T6tlp0QNQRUWn2/EyMYoDhTQeOGcockTZG+kE6InVyyOseBA=="/>
-            </sparkle:deltas>
-            <description><![CDATA[
-                            <h2>Fixes and Improvements</h2>
-                            <ul>
-                                <li>Fixes an issue where scrolling the goal list would not work as intended and exhibit “stuttering.” Thank you for your patience!</li>
-                                <li>Resolves an issue where the window management buttons in the Zoom button popover were not displayed correctly on macOS 26 Tahoe. Thank you, Jon Sterling!</li>
-                                <li>Includes minor updates, bug fixes, and improvements behind the scenes</li>
                             </ul>
 							]]></description>
         </item>
