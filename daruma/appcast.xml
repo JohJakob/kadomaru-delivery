@@ -3,6 +3,24 @@
     <channel>
         <title>Daruma</title>
         <item>
+            <title>1.3.3</title>
+            <pubDate>Mon, 31 Aug 2026 09:15:41 +0200</pubDate>
+            <sparkle:version>38</sparkle:version>
+            <sparkle:shortVersionString>1.3.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma.dmg" length="10462687" type="application/octet-stream" sparkle:edSignature="a9Eyx5EihSS/Rp4N6pIDT/KQbkD7zl2Xaw5eQ5pPnIbFKXxjbvw44i01AQ1txo4aAi3LKWwFm6P9IEhGwj3IAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://delivery.kadomaru.app/daruma/Daruma38-27.delta" sparkle:deltaFrom="27" length="3567138" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="6v1mSnhdn/by8bLExza02sf/mA9ZlRPCjJQ3Isxi84HiqAnqSXsfLMtfVgGJU22efuc+49hFoz9G2Z5NC6PUAg=="/>
+            </sparkle:deltas>
+                        <description><![CDATA[
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Fixes an issue where the “New Goal” and “Burn Completed Goals” buttons were disabled by mistake</li>
+                                <li>Includes minor updates and improvements behind the scenes</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
             <title>1.3.2</title>
             <pubDate>Tue, 11 Aug 2026 10:33:04 +0200</pubDate>
             <sparkle:version>37</sparkle:version>
@@ -37,30 +55,6 @@
                                 <li>Improves keyboard navigation in the warning dialog before burning completed goals</li>
                                 <li>Fixes a visual issue with the update delivery channel picker on macOS Golden Gate 27</li>
                                 <li>Includes minor updates behind the scenes</li>
-                            </ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.3</title>
-            <pubDate>Wed, 29 Jul 2026 18:54:03 +0200</pubDate>
-            <sparkle:version>35</sparkle:version>
-            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma.dmg" length="10463411" type="application/octet-stream" sparkle:edSignature="YmQDK8o2aLHP6h2sC2yg8kzXeKY9Ou4IDWyCQCyMJQvSIR7Ed03EyXjzH9+k4i0NnD1pljWspNG9VoDDLtGoDA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://delivery.kadomaru.app/daruma/Daruma35-27.delta" sparkle:deltaFrom="27" length="3564330" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="nsqIXbzzs8CdD98tcxCQOMtOwCnoj1u0Norcop/lNoXMh/unyAJpfhmm8AiMrc0cdJRwbuhR2n7Cmq5AuEd6CQ=="/>
-            </sparkle:deltas>
-            <description><![CDATA[
-                            <h2>New Features</h2>
-                            <ul>
-                                <li>Uses the Liquid Glass design on macOS 26 Tahoe and later</li>
-                            </ul>
-                            <h2>Fixes and Improvements</h2>
-                            <ul>
-                                <li>Fixes an issue where goals could not be created after opening the app for the first time</li>
-                                <li>Improves accessibility</li>
-                                <li>Improves performance in the appearance settings</li>
-                                <li>Fixes an alignment issue in the updates settings</li>
                             </ul>
 							]]></description>
         </item>
