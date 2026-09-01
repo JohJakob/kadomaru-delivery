@@ -3,6 +3,23 @@
     <channel>
         <title>Daruma</title>
         <item>
+            <title>1.3.4</title>
+            <pubDate>Tue, 01 Sep 2026 09:35:14 +0200</pubDate>
+            <sparkle:version>39</sparkle:version>
+            <sparkle:shortVersionString>1.3.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma.dmg" length="10473337" type="application/octet-stream" sparkle:edSignature="QqMvwJgPyBY2/l50ArO7WW/SIyJx6VDGxE9Qh6ACfzUuKAskIXKrY0iUzxqMGdzT9WqdrYEl8hVSEumGN0E3Cw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://delivery.kadomaru.app/daruma/Daruma39-27.delta" sparkle:deltaFrom="27" length="3573686" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="tRPOE5yIfhgEfwwWrJc0rSkgiHIGzxqe41N+R2paO3T1CGyQUbqvTqR95GT9s8PYgjNtL9nRr8rLtvAWnSq4Ag=="/>
+            </sparkle:deltas>
+            <description><![CDATA[
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Fixes an issue where new goals could not be added</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
             <title>1.3.3</title>
             <pubDate>Mon, 31 Aug 2026 09:15:41 +0200</pubDate>
             <sparkle:version>38</sparkle:version>
@@ -12,7 +29,7 @@
             <sparkle:deltas>
                 <enclosure url="https://delivery.kadomaru.app/daruma/Daruma38-27.delta" sparkle:deltaFrom="27" length="3567138" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="6v1mSnhdn/by8bLExza02sf/mA9ZlRPCjJQ3Isxi84HiqAnqSXsfLMtfVgGJU22efuc+49hFoz9G2Z5NC6PUAg=="/>
             </sparkle:deltas>
-                        <description><![CDATA[
+            <description><![CDATA[
                             <h2>Fixes and Improvements</h2>
                             <ul>
                                 <li>Fixes an issue where the “New Goal” and “Burn Completed Goals” buttons were disabled by mistake</li>
@@ -34,27 +51,6 @@
                             <h2>Fixes and Improvements</h2>
                             <ul>
                                 <li>(Hopefully) fixes an issue where the “New Goal” button’s state was not updated correctly</li>
-                            </ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.3.1</title>
-            <pubDate>Mon, 03 Aug 2026 10:42:20 +0200</pubDate>
-            <sparkle:version>36</sparkle:version>
-            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma.dmg" length="10468491" type="application/octet-stream" sparkle:edSignature="SHeBRL7ynXBYc3leS1JZDzSo5wKcSLyQqAGccUdf7peAhjcT25M3kiBP2XsUudblcqTfjcQuSvr3Cj6rONbrCg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://delivery.kadomaru.app/daruma/Daruma36-27.delta" sparkle:deltaFrom="27" length="3564982" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="+X0l1459A8nRlkktgW+5MGvHQzS8Ubk2VfxtPCtUtFY6DWcw7/DDHG38JSI9j7qtE7992yVe+OIzBgSSdXwCCQ=="/>
-            </sparkle:deltas>
-            <description><![CDATA[
-                            <h2>Fixes and Improvements</h2>
-                            <ul>
-                                <li>Improves the appearance of the toolbar buttons</li>
-                                <li>Fixes an issue where burning completed goals would not be visible on macOS Golden Gate 27</li>
-                                <li>Improves keyboard navigation in the warning dialog before burning completed goals</li>
-                                <li>Fixes a visual issue with the update delivery channel picker on macOS Golden Gate 27</li>
-                                <li>Includes minor updates behind the scenes</li>
                             </ul>
 							]]></description>
         </item>
