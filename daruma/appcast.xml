@@ -3,6 +3,24 @@
     <channel>
         <title>Daruma</title>
         <item>
+            <title>1.3.5</title>
+            <pubDate>Thu, 17 Sep 2026 11:10:18 +0200</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>1.3.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma.dmg" length="10451952" type="application/octet-stream" sparkle:edSignature="g4v1taI6w1LkBm0ig9Tau04eAU20Gse0KMmN0n7GfjoM6/JLbY0pG22mUu6+I8SQ6e1xIblN27DDvYh+ticvDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://delivery.kadomaru.app/daruma/Daruma40-27.delta" sparkle:deltaFrom="27" length="3632006" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="fSMx5ER5mOeeRMuP5ZgtP+gOYj4RXNyqUmTOVQlzNS65N/wQZ8f3G+EMvvp9iFHAU1PtyiAjpLe23qz5BsPkCg=="/>
+            </sparkle:deltas>
+            <description><![CDATA[
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                                <li>Fixes an issue where goal list items would not be sized correctly</li>
+                                <li>Includes minor updates behind the scenes</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
             <title>1.3.4</title>
             <pubDate>Tue, 01 Sep 2026 09:35:14 +0200</pubDate>
             <sparkle:version>39</sparkle:version>
@@ -34,23 +52,6 @@
                             <ul>
                                 <li>Fixes an issue where the “New Goal” and “Burn Completed Goals” buttons were disabled by mistake</li>
                                 <li>Includes minor updates and improvements behind the scenes</li>
-                            </ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.3.2</title>
-            <pubDate>Tue, 11 Aug 2026 10:33:04 +0200</pubDate>
-            <sparkle:version>37</sparkle:version>
-            <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://delivery.kadomaru.app/daruma/Daruma.dmg" length="10471863" type="application/octet-stream" sparkle:edSignature="FI8T5pH1qTZ8YjOMaI4gsq1/2qg5CKXo3VJqHnjIKMtyY2jo7OfZaEaxhumCxCDhoHt59rhgZWBp+eQ7otGXCA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://delivery.kadomaru.app/daruma/Daruma37-27.delta" sparkle:deltaFrom="27" length="3459438" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="864864" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="gsIBnT8FQlPownnj3Q5h/MLmykNEzlPk9NrkPHbF8luwil4QXcz9l3zyx3zmjNaW3/nPTvPfO/fHd1I40CfVAA=="/>
-            </sparkle:deltas>
-            <description><![CDATA[
-                            <h2>Fixes and Improvements</h2>
-                            <ul>
-                                <li>(Hopefully) fixes an issue where the “New Goal” button’s state was not updated correctly</li>
                             </ul>
 							]]></description>
         </item>
