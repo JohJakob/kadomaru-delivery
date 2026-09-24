@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>MAPO</title>
+        <item>
+            <title>1.0.5</title>
+            <pubDate>Thu, 24 Sep 2026 11:08:22 +0200</pubDate>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/mapo/MAPO.zip" length="15298907" type="application/octet-stream" sparkle:edSignature="Q9g/J0ej35Pf1O16q7A2ezWyfdNeHVxRy1ygW3ITOvtHxtr4d/PezAaQahJsSwmeJQu+NuiQAYxzkmLAsUkIAw=="/>
+            <description><![CDATA[
+                            <h2>New Features</h2>
+                            <ul>
+                                <li>Adds new and updates existing icons</li>
+								<li>Adds an “All Points of Interest” view in Categories</li>
+								<li>Adds new location types for cruise line locations</li>
+								<li>Adds an order field for manually setting the display order of locations</li>
+                            </ul>
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                            	<li>Includes minor improvements</li>
+                            </ul>
+							]]></description>
+        </item>
+    </channel>
+</rss>
