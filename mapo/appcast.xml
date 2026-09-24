@@ -3,6 +3,22 @@
     <channel>
         <title>MAPO</title>
         <item>
+            <title>1.0.6</title>
+            <pubDate>Thu, 24 Sep 2026 14:11:07 +0200</pubDate>
+            <sparkle:version>36</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/mapo/MAPO.zip" length="15298128" type="application/octet-stream" sparkle:edSignature="S8+CWhLOH1rJGyFjPlQOiNy/p9Rd8ml7+emmpG5HkuQHNo3Vr1Hg2LYPoz0kbFCQJA8d5ZVFejdQV+hYXaZVAg=="/>
+            <description><![CDATA[
+                            <h2>Fixes and Improvements</h2>
+                            <ul>
+                            	<li>Fixes an issue where the points of interest list vanished when selecting “All Points of Interest” in the Categories view</li>
+                            	<li>Fixes point of interest sectioning in the “All Points of Interest” list</li>
+                            	<li>Updates the location type order</li>
+                            </ul>
+							]]></description>
+        </item>
+        <item>
             <title>1.0.5</title>
             <pubDate>Thu, 24 Sep 2026 11:08:22 +0200</pubDate>
             <sparkle:version>35</sparkle:version>
