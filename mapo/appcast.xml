@@ -3,6 +3,25 @@
     <channel>
         <title>MAPO</title>
         <item>
+            <title>1.0.7</title>
+            <pubDate>Mon, 28 Sep 2026 14:10:31 +0200</pubDate>
+            <sparkle:version>37</sparkle:version>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/mapo/MAPO.zip" length="15324626" type="application/octet-stream" sparkle:edSignature="pev+RrvMn77SQzD9R9u9PYGYjosXJjceolrqQU1qLPgT4GjRfQIOGhJ6tDXqg3gNuz7kY4oBT/qFqCuwxPJOCQ=="/>
+            <description><![CDATA[
+                            <h2>New Features</h2>
+							<ul>
+								<li>Adds new icons and updates existing ones</li>
+								<li>Adds a new category type “Seating Area” to the “Dining” category</li>
+							</ul>
+							<h2>Fixes and Improvements</h2>
+							<ul>
+								<li>Fixes the sort order of resort locations</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
             <title>1.0.6</title>
             <pubDate>Thu, 24 Sep 2026 14:11:07 +0200</pubDate>
             <sparkle:version>36</sparkle:version>
