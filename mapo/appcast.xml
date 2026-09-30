@@ -3,6 +3,25 @@
     <channel>
         <title>MAPO</title>
         <item>
+            <title>1.0.8</title>
+            <pubDate>Wed, 30 Sep 2026 14:38:01 +0200</pubDate>
+            <sparkle:version>38</sparkle:version>
+            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/mapo/MAPO.zip" length="15339829" type="application/octet-stream" sparkle:edSignature="i3/1aFqrC47p+2ioAlNVgx/LvzPHaQcFvwJZoRf+/y5kl+/55MBMzpmhK0Imfr0UPagT9nYtf/AcPfa9qWLVBQ=="/>
+            <description><![CDATA[
+                            <h2>New Features</h2>
+							<ul>
+								<li>Adds new icons and updates existing ones</li>
+								<li>Icons that are not assigned to any category are now displayed in a separate section when editing icon categories</li>
+							</ul>
+							<h2>Fixes and Improvements</h2>
+							<ul>
+								<li>Adding and removing icons to categories is now animated</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
             <title>1.0.7</title>
             <pubDate>Mon, 28 Sep 2026 14:10:31 +0200</pubDate>
             <sparkle:version>37</sparkle:version>
@@ -34,27 +53,6 @@
                             	<li>Fixes an issue where the points of interest list vanished when selecting “All Points of Interest” in the Categories view</li>
                             	<li>Fixes point of interest sectioning in the “All Points of Interest” list</li>
                             	<li>Updates the location type order</li>
-                            </ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.0.5</title>
-            <pubDate>Thu, 24 Sep 2026 11:08:22 +0200</pubDate>
-            <sparkle:version>35</sparkle:version>
-            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://delivery.kadomaru.app/mapo/MAPO.zip" length="15298907" type="application/octet-stream" sparkle:edSignature="Q9g/J0ej35Pf1O16q7A2ezWyfdNeHVxRy1ygW3ITOvtHxtr4d/PezAaQahJsSwmeJQu+NuiQAYxzkmLAsUkIAw=="/>
-            <description><![CDATA[
-                            <h2>New Features</h2>
-                            <ul>
-                                <li>Adds new and updates existing icons</li>
-								<li>Adds an “All Points of Interest” view in Categories</li>
-								<li>Adds new location types for cruise line locations</li>
-								<li>Adds an order field for manually setting the display order of locations</li>
-                            </ul>
-                            <h2>Fixes and Improvements</h2>
-                            <ul>
-                            	<li>Includes minor improvements</li>
                             </ul>
 							]]></description>
         </item>
