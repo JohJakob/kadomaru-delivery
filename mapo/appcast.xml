@@ -3,6 +3,20 @@
     <channel>
         <title>MAPO</title>
         <item>
+            <title>1.0.10</title>
+            <pubDate>Thu, 15 Oct 2026 13:07:08 +0200</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/mapo/MAPO.zip" length="13469888" type="application/octet-stream" sparkle:edSignature="D9IBbzrBCPlRnw+tkgjyZYd1ekUd0aNqheoKxgi/4KJt5+d09DwZGfbBQ15lrMCTTi3LyFj9uAlqlAU6zQytAw=="/>
+            <description><![CDATA[
+                            <h2>New Features</h2>
+							<ul>
+								<li>Adds new icons and updates existing ones</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
             <title>1.0.9</title>
             <pubDate>Fri, 02 Oct 2026 10:28:47 +0200</pubDate>
             <sparkle:version>39</sparkle:version>
@@ -37,25 +51,6 @@
 							<h2>Fixes and Improvements</h2>
 							<ul>
 								<li>Adding and removing icons to categories is now animated</li>
-							</ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.0.7</title>
-            <pubDate>Mon, 28 Sep 2026 14:10:31 +0200</pubDate>
-            <sparkle:version>37</sparkle:version>
-            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://delivery.kadomaru.app/mapo/MAPO.zip" length="15324626" type="application/octet-stream" sparkle:edSignature="pev+RrvMn77SQzD9R9u9PYGYjosXJjceolrqQU1qLPgT4GjRfQIOGhJ6tDXqg3gNuz7kY4oBT/qFqCuwxPJOCQ=="/>
-            <description><![CDATA[
-                            <h2>New Features</h2>
-							<ul>
-								<li>Adds new icons and updates existing ones</li>
-								<li>Adds a new category type “Seating Area” to the “Dining” category</li>
-							</ul>
-							<h2>Fixes and Improvements</h2>
-							<ul>
-								<li>Fixes the sort order of resort locations</li>
 							</ul>
 							]]></description>
         </item>
