@@ -3,6 +3,27 @@
     <channel>
         <title>MAPO</title>
         <item>
+            <title>1.0.11</title>
+            <pubDate>Wed, 28 Oct 2026 11:17:33 +0100</pubDate>
+            <sparkle:version>41</sparkle:version>
+            <sparkle:shortVersionString>1.0.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://delivery.kadomaru.app/mapo/MAPO.zip" length="13577517" type="application/octet-stream" sparkle:edSignature="y/T6U/GqP9XBCZ+BEG+pHcI+uZ8tpVL1hBRl5l9l4BNQhVPLfN4ntM4aPewEDqPwloBeZJrRnM9lqY2oVqi7Ag=="/>
+            <description><![CDATA[
+                            <h2>New Features</h2>
+							<ul>
+								<li>Adds new icons and updates existing ones</li>
+								<li>Adds a new category type “Buffet” in the “Dining” category</li>
+								<li>Adds a “Last Updated” option for sorting points of interest</li>
+							</ul>
+							<h2>Fixes and Improvements</h2>
+							<ul>
+								<li>Fixes an issue where locations would not be displayed in the correct order</li>
+								<li>Includes minor updates behind the scenes</li>
+							</ul>
+							]]></description>
+        </item>
+        <item>
             <title>1.0.10</title>
             <pubDate>Thu, 15 Oct 2026 13:07:08 +0200</pubDate>
             <sparkle:version>40</sparkle:version>
@@ -32,25 +53,6 @@
 							<ul>
 								<li>Fixes an issue where points of interest were incorrectly displayed as orphaned</li>
 								<li>Speeds up database loading</li>
-							</ul>
-							]]></description>
-        </item>
-        <item>
-            <title>1.0.8</title>
-            <pubDate>Wed, 30 Sep 2026 14:38:01 +0200</pubDate>
-            <sparkle:version>38</sparkle:version>
-            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://delivery.kadomaru.app/mapo/MAPO.zip" length="15339829" type="application/octet-stream" sparkle:edSignature="i3/1aFqrC47p+2ioAlNVgx/LvzPHaQcFvwJZoRf+/y5kl+/55MBMzpmhK0Imfr0UPagT9nYtf/AcPfa9qWLVBQ=="/>
-            <description><![CDATA[
-                            <h2>New Features</h2>
-							<ul>
-								<li>Adds new icons and updates existing ones</li>
-								<li>Icons that are not assigned to any category are now displayed in a separate section when editing icon categories</li>
-							</ul>
-							<h2>Fixes and Improvements</h2>
-							<ul>
-								<li>Adding and removing icons to categories is now animated</li>
 							</ul>
 							]]></description>
         </item>
